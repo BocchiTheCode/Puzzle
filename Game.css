@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+    margin-top: 10%;
+    margin-left: 40%
+    display: block;
+}
+tr, td {
+    border: 4px solid ;
+    text-align: center;
+}
+td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+body{
+    background-color: darkmagenta;
+    color: skyblue;
+    font-size: 2em;
+}
+td:hover {
+    background-color: azure;
+}
+#header{
+    text-align: center;
+}
